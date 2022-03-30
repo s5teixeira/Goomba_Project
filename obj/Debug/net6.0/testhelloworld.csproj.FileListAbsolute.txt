@@ -1,0 +1,15 @@
+/Users/stephanieteixeira/Downloads/testhelloworld/bin/Debug/net6.0/testhelloworld
+/Users/stephanieteixeira/Downloads/testhelloworld/bin/Debug/net6.0/testhelloworld.deps.json
+/Users/stephanieteixeira/Downloads/testhelloworld/bin/Debug/net6.0/testhelloworld.runtimeconfig.json
+/Users/stephanieteixeira/Downloads/testhelloworld/bin/Debug/net6.0/testhelloworld.dll
+/Users/stephanieteixeira/Downloads/testhelloworld/bin/Debug/net6.0/ref/testhelloworld.dll
+/Users/stephanieteixeira/Downloads/testhelloworld/bin/Debug/net6.0/testhelloworld.pdb
+/Users/stephanieteixeira/Downloads/testhelloworld/obj/Debug/net6.0/testhelloworld.csproj.AssemblyReference.cache
+/Users/stephanieteixeira/Downloads/testhelloworld/obj/Debug/net6.0/testhelloworld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stephanieteixeira/Downloads/testhelloworld/obj/Debug/net6.0/testhelloworld.AssemblyInfoInputs.cache
+/Users/stephanieteixeira/Downloads/testhelloworld/obj/Debug/net6.0/testhelloworld.AssemblyInfo.cs
+/Users/stephanieteixeira/Downloads/testhelloworld/obj/Debug/net6.0/testhelloworld.csproj.CoreCompileInputs.cache
+/Users/stephanieteixeira/Downloads/testhelloworld/obj/Debug/net6.0/testhelloworld.dll
+/Users/stephanieteixeira/Downloads/testhelloworld/obj/Debug/net6.0/ref/testhelloworld.dll
+/Users/stephanieteixeira/Downloads/testhelloworld/obj/Debug/net6.0/testhelloworld.pdb
+/Users/stephanieteixeira/Downloads/testhelloworld/obj/Debug/net6.0/testhelloworld.genruntimeconfig.cache
